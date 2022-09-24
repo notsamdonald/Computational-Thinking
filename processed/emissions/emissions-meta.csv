@@ -27,12 +27,9 @@ Properties,Name,Type,Index,Description
 ,Emissions.Production.CO2.Flaring,float,,The total amount of CO2 produced (kilotons) related to flaring
 ,Emissions.Production.CO2.Other,float,,The total amount of CO2 produced (kilotons) related to flaring other areas (such that CO2 total is sum of components)
 ,Emissions.Production.CO2.Total,float,,The total amount of CO2 produced (kilotons) 
-,Emissions.Global Share.CH4,float,,The share of global CH4 produced (kilotons) 
-,Emissions.Global Share.N2O,float,,The share of global N2O produced (kilotons) 
 ,Emissions.Global Share.CO2.Cement,float,,The share of global CO2 produced (kilotons) related to the cement production
 ,Emissions.Global Share.CO2.Coal,float,,The share of global CO2 produced (kilotons) related to the coal industry
 ,Emissions.Global Share.CO2.Gas,float,,The share of global CO2 produced (kilotons) related to gas consumption
 ,Emissions.Global Share.CO2.Oil,float,,The share of global CO2 produced (kilotons) related to oil consumption
 ,Emissions.Global Share.CO2.Flaring,float,,The share of global CO2 produced (kilotons) related to flaring
-,Emissions.Global Share.CO2.Other,float,,The share of global CO2 produced (kilotons) related to flaring other areas (such that CO2 total is sum of components)
 ,Emissions.Global Share.CO2.Total,float,,The share of global CO2 produced (kilotons) 
