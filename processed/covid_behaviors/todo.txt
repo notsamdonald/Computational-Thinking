@@ -1,3 +1,0 @@
-Check for double up in output cols
-Remove headers
-Add descriptions to meta file
